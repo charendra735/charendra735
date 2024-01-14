@@ -10,8 +10,7 @@
 
 <img align="right" width="400" alt="coding" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-<p align="left"> <img src="![image](https://github.com/charendra735/charendra735/assets/155763950/96e0cf47-a49b-4450-9380-6d84c7111404)
-" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
 
 - 🔭 I’m currently studying **Computer Engineering**
 
