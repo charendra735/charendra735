@@ -1,6 +1,15 @@
-<h1 align="center">Hi 👋, I'm Harendra Chaudhary</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Arpan+AKAapu52....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+![image](https://github.com/charendra735/charendra735/assets/155763950/d28838d0-ad8f-4c5c-9eff-da71a671a869)
+
 <h3 align="center">A Passionate Web Developer from Nepal</h3>
 
+<img align="right" width="400" alt="coding" src="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charendra910&label=Profile%20views&color=0e75b6&style=flat" alt="charendra910" /> </p>
 
 - 🔭 I’m currently studying **Computer Engineering**
@@ -12,9 +21,7 @@
 - 💬 Ask me about **Python,C#,PHP**
 
 - 📫 How to reach me **harendratharu0@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/harendra-chaudhary-54446324b/overlay/1635537955970/single-media-viewer/?profileId=ACoAAD3TXUQBujQ6kNqvXz6tMn5gpHVGYTGe1cA](https://www.linkedin.com/in/harendra-chaudhary-54446324b/overlay/1635537955970/single-media-viewer/?profileId=ACoAAD3TXUQBujQ6kNqvXz6tMn5gpHVGYTGe1cA)
-
+- 
 - ⚡ Fun fact **I am Funny😊**
 
 <h3 align="left">Connect with me:</h3>
