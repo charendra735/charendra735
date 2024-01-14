@@ -22,7 +22,7 @@
 <a href="https://twitter.com/9821972422" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="9821972422" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/charendra910@rku.ac.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charendra910@rku.ac.in" height="30" width="40" /></a>
 <a href="https://fb.com/9956303809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="9956303809" height="30" width="40" /></a>
-<a href="https://instagram.com/tharuwa harendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharuwa harendra" height="30" width="40" /></a>
+<a href="https://instagram.com/harendratharu0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharuwa harendra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
