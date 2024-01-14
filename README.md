@@ -10,7 +10,8 @@
 
 <img align="right" width="400" alt="coding" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charendra910&label=Profile%20views&color=0e75b6&style=flat" alt="charendra910" /> </p>
+<p align="left"> <img src="![image](https://github.com/charendra735/charendra735/assets/155763950/96e0cf47-a49b-4450-9380-6d84c7111404)
+" /> </p>
 
 - 🔭 I’m currently studying **Computer Engineering**
 
