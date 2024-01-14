@@ -8,7 +8,7 @@
 
 ![logo](https://github.com/charendra910/charendra910/blob/main/coding2.gif)
 
-<img align="right" width="400" alt="coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="400" alt="coding" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charendra910&label=Profile%20views&color=0e75b6&style=flat" alt="charendra910" /> </p>
 
@@ -21,7 +21,7 @@
 - 💬 Ask me about **Python,C#,PHP**
 
 - 📫 How to reach me **harendratharu0@gmail.com**
-- 
+  
 - ⚡ Fun fact **I am Funny😊**
 
 <h3 align="left">Connect with me:</h3>
