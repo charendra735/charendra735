@@ -9,8 +9,7 @@
 
 <h3 align="center">A Passionate Web Developer from Nepal</h3>
 
-<img align="right" width="400" alt="coding" src="![image](https://github.com/charendra735/charendra735/assets/155763950/6b4ed29e-0f1f-44db-981c-6a2030315fd7)
-" />
+<img align="right" width="400" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FOl-create%2FOl-create&psig=AOvVaw3Z-k5LOlpmBq_Um91p4m1g&ust=1705328659342000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiZgM6O3YMDFQAAAAAdAAAAABAI" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charendra910&label=Profile%20views&color=0e75b6&style=flat" alt="charendra910" /> </p>
 
 - 🔭 I’m currently studying **Computer Engineering**
